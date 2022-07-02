@@ -23,3 +23,7 @@ Only takes .wav files.
 ## More information
 
 More information can be found on [Devpost](https://devpost.com/software/write-noise)!
+
+## Contributors
+
+This project was built by Charlie Liu, Morris Wan, Ethan Chee, and Kurt Hu.
