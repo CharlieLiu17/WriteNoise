@@ -1,6 +1,6 @@
 # WriteNoise - HackGT7
 
-WriteNoise was a HackGT7 project made by Charlie Liu, Morris Wan, Ethan Chee, and Kurt Hu. It won **2nd Best Overall** in the hackathon, out of 2500+ participants.
+WriteNoise was a HackGT7 project made by Charlie Liu, Morris Wan, Ethan Chee, and Kurt Hu. It won **2nd Place Overall** in the hackathon, out of 2500+ participants.
 
 ## What is WriteNoise?
 
