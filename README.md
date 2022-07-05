@@ -1,5 +1,7 @@
 # WriteNoise - HackGT7
 
+WriteNoise was a HackGT7 project made by Charlie Liu, Morris Wan, Ethan Chee, and Kurt Hu. It won 2nd Best Overall in the hackathon, out of 2500+ participants.
+
 ## What is WriteNoise?
 
 WriteNoise is a sound to image converter. How can we convert a sound to an image? Well, we convert every bit of sound into the bits of an RGBA value. Each RGBA value then becomes a pixel in the final image.
@@ -23,7 +25,3 @@ Only takes .wav files.
 ## More information
 
 More information can be found on [Devpost](https://devpost.com/software/write-noise)!
-
-## Contributors
-
-This project was built by Charlie Liu, Morris Wan, Ethan Chee, and Kurt Hu.
