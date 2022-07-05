@@ -12,7 +12,7 @@ WriteNoise has many applications. From steganography to artistic musical represe
 
 Since this is a lossless conversion of information, you can use the produced image as an encrypted message that has the additional benefit of an extra layer of protection as people wouldn't even realize it's a message. 
 
-Additionally, the produced image can be used a "QR code" for sound. Without an internet connection, a QR code is often only a text string. Our image can let sound be played without an internet connection.
+Additionally, the produced image can be used as a "QR code" for sound. Without an internet connection, a QR code is often only a text string. Our image could let sound be played without an internet connection.
 
 Finally, the produced image can represent different types of sound. The laughter at a comedy show produces a drastically different image than the sound of Taylor Swift's  hit song, "22".
 
